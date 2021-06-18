@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "698369515741",
+    "project_id": "flash-chat-bc251",
+    "storage_bucket": "flash-chat-bc251.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698369515741:android:0b12716c63daa0ec4dfb34",
+        "android_client_info": {
+          "package_name": "co.gamze.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "698369515741-tcvvhhtgshlb3o2u51ap6b57fuu4jpmp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXGfwzu24J4cWDCgOXjpngUZadPIZjpXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "698369515741-tcvvhhtgshlb3o2u51ap6b57fuu4jpmp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
